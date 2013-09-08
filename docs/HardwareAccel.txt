@@ -1,0 +1,1 @@
+Boolean: Should we enable OpenSSL hardware acceleration where available? 

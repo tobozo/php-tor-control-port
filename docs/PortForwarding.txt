@@ -1,0 +1,1 @@
+If true, use NAT-PMP or UPnP to automatically forward the DirPort and ORPort on the NAT device 

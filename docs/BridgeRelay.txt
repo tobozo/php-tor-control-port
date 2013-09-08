@@ -1,0 +1,1 @@
+Boolean: are we acting as a bridge relay? We make this explicit so we can change how we behave in the future. 

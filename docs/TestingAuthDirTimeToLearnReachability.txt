@@ -1,0 +1,1 @@
+If an authority has been around for less than this amount of time, it does not believe its reachability information is accurate. Only altered on testing networks. 

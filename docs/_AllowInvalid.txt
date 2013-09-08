@@ -1,0 +1,1 @@
+Bitmask; derived from AllowInvalidNodes. 

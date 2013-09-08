@@ -1,0 +1,1 @@
+If true, the user wants us to collect statistics on port usage. 

@@ -1,0 +1,2 @@
+
+Never use circs that were first used more than this interval ago. 

@@ -1,0 +1,1 @@
+Do we fetch v2 networkstatus documents when we don't need to? 

@@ -1,0 +1,1 @@
+Boolean: does this an authoritative directory handle hidden service requests? 

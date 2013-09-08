@@ -1,0 +1,2 @@
+
+Parameter used to configure average path length (alpha in geometric distribution). 

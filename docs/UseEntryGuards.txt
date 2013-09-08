@@ -1,0 +1,1 @@
+Boolean: Do we try to enter from a smallish number of fixed nodes? 

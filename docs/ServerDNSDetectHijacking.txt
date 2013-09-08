@@ -1,0 +1,1 @@
+Boolean: If true, check for DNS failure hijacking. 

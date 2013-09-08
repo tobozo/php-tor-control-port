@@ -1,0 +1,1 @@
+As directory authority, accept hidden service directories after what time? 

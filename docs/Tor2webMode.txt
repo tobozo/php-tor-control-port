@@ -1,0 +1,1 @@
+Run in 'tor2web mode'? (I.e. only make client connections to hidden services, and use a single hop for all hidden-service-related circuits.) 

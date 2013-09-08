@@ -1,0 +1,1 @@
+Application ports that are likely to be unencrypted and unauthenticated; we reject requests for them to prevent the user from screwing up and leaking plaintext secrets to an observer somewhere on the Internet. 

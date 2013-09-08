@@ -1,0 +1,1 @@
+Do we fetch non-running descriptors too? 

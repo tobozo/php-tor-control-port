@@ -1,0 +1,1 @@
+If Tor believes it is safe, should we save a third of our PK time by sending CREATE_FAST cells? 

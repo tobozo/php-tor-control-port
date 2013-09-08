@@ -1,0 +1,1 @@
+Currently Linux only specific attempt to disable ptrace; needs BSD testing. 

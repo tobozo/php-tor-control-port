@@ -1,0 +1,1 @@
+If true, we allow connections to hostnames with weird characters. 

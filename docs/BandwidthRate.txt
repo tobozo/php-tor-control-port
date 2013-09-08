@@ -1,0 +1,2 @@
+
+How much bandwidth, on average, are we willing to use in a second? 

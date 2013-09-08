@@ -1,0 +1,2 @@
+
+Boolean: Does Tor attach new streams to circuits itself (0), or does it expect a controller to cope? (1) 

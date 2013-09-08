@@ -1,0 +1,1 @@
+If true, we will warn if a user gives us only an IP address instead of a hostname. 

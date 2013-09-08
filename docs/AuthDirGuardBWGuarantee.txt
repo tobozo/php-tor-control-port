@@ -1,0 +1,1 @@
+If non-zero, this advertised capacity or more is always sufficient to satisfy the bandwidth requirement for the Guard flag. 

@@ -1,0 +1,1 @@
+If 1, and we are using IOCP, we set the kernel socket SNDBUF and RCVBUF to 0 to try to save kernel memory and avoid the dread "Out of buffers" issue. 

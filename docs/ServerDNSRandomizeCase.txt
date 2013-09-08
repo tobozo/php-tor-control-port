@@ -1,0 +1,1 @@
+Boolean: Use the 0x20-hack to prevent DNS poisoning attacks. 

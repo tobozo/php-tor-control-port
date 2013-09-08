@@ -1,0 +1,1 @@
+If true, and we are acting as a relay, allow exit circuits even when we are the first hop of a circuit. 

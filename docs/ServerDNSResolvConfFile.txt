@@ -1,0 +1,1 @@
+If provided, we configure our internal resolver from the file here rather than from /etc/resolv.conf (Unix) or the registry (Windows). 

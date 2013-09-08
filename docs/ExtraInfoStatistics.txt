@@ -1,0 +1,1 @@
+If true, include statistics file contents in extra-info documents. 

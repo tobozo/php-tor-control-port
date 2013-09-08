@@ -1,0 +1,1 @@
+To what authority types do we publish our descriptor? Choices are "v1", "v2", "v3", "bridge", or "". 

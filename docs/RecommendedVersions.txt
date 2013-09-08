@@ -1,0 +1,2 @@
+
+Directory server only: which versions of Tor should we tell users to run? 

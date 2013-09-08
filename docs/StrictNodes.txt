@@ -1,0 +1,1 @@
+Boolean: When none of our EntryNodes or ExitNodes are up, or we need to access a node in ExcludeNodes, do we just fail instead? 

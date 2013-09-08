@@ -1,0 +1,1 @@
+Maximum number of non-open general-purpose origin circuits to allow at once. 

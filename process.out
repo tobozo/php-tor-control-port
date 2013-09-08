@@ -1,0 +1,59 @@
+Jul 01 13:13:01.454 [notice] Tor v0.2.2.35 (git-b04388f9e7546a9f). This is experimental software. Do not rely on it for strong anonymity. (Running on Linux x86_64)
+Jul 01 13:13:01.476 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jul 01 13:13:01.479 [notice] We were compiled with headers from version 2.0.19-stable of Libevent, but we're using a Libevent library that says it's version 2.0.16-stable.
+Jul 01 13:13:01.479 [notice] Initialized libevent version 2.0.16-stable using method epoll. Good.
+Jul 01 13:13:01.479 [notice] Opening Socks listener on 127.0.0.1:0
+Jul 01 13:13:01.479 [notice] Socks listener listening on port 48688.
+Jul 01 13:13:01.479 [notice] Opening Control listener on 127.0.0.1:9051
+Jul 01 13:13:01.504 [notice] Parsing GEOIP file /var/www/tor.assassine.org/tor/Data/Tor/geoip.
+Jul 01 13:13:01.706 [notice] OpenSSL OpenSSL 1.0.1 14 Mar 2012 looks like version 0.9.8m or later; I will try SSL_OP to enable renegotiation
+Jul 01 13:13:02.474 [notice] I learned some more directory information, but not enough to build a circuit: We have no recent network-status consensus.
+Jul 01 13:13:03.478 [notice] Bootstrapped 5%: Connecting to directory server.
+Jul 01 13:13:03.559 [notice] Bootstrapped 10%: Finishing handshake with directory server.
+Jul 01 13:13:04.146 [notice] Bootstrapped 15%: Establishing an encrypted directory connection.
+Jul 01 13:13:04.325 [notice] Bootstrapped 20%: Asking for networkstatus consensus.
+Jul 01 13:13:04.421 [notice] Bootstrapped 25%: Loading networkstatus consensus.
+Jul 01 13:13:05.343 [notice] Bootstrapped 45%: Asking for relay descriptors.
+Jul 01 13:13:05.343 [notice] I learned some more directory information, but not enough to build a circuit: We have only 0/3101 usable descriptors.
+Jul 01 13:13:05.707 [notice] Bootstrapped 50%: Loading relay descriptors.
+Jul 01 13:13:05.920 [notice] Bootstrapped 53%: Loading relay descriptors.
+Jul 01 13:13:05.920 [notice] I learned some more directory information, but not enough to build a circuit: We have only 96/3097 usable descriptors.
+Jul 01 13:13:06.053 [notice] Bootstrapped 57%: Loading relay descriptors.
+Jul 01 13:13:06.054 [notice] I learned some more directory information, but not enough to build a circuit: We have only 192/3095 usable descriptors.
+Jul 01 13:13:06.169 [notice] Bootstrapped 60%: Loading relay descriptors.
+Jul 01 13:13:06.170 [notice] I learned some more directory information, but not enough to build a circuit: We have only 288/3095 usable descriptors.
+Jul 01 13:13:06.265 [notice] Bootstrapped 64%: Loading relay descriptors.
+Jul 01 13:13:06.265 [notice] I learned some more directory information, but not enough to build a circuit: We have only 384/3095 usable descriptors.
+Jul 01 13:13:06.326 [notice] Bootstrapped 67%: Loading relay descriptors.
+Jul 01 13:13:06.327 [notice] I learned some more directory information, but not enough to build a circuit: We have only 480/3095 usable descriptors.
+Jul 01 13:13:06.411 [notice] Bootstrapped 71%: Loading relay descriptors.
+Jul 01 13:13:06.412 [notice] I learned some more directory information, but not enough to build a circuit: We have only 576/3095 usable descriptors.
+Jul 01 13:13:06.559 [notice] Bootstrapped 75%: Loading relay descriptors.
+Jul 01 13:13:06.563 [notice] I learned some more directory information, but not enough to build a circuit: We have only 672/3095 usable descriptors.
+Jul 01 13:13:06.659 [notice] Bootstrapped 76%: Loading relay descriptors.
+Jul 01 13:13:06.659 [notice] I learned some more directory information, but not enough to build a circuit: We have only 700/3094 usable descriptors.
+Jul 01 13:13:07.479 [notice] We now have enough directory information to build circuits.
+Jul 01 13:13:07.479 [notice] Bootstrapped 80%: Connecting to the Tor network.
+Jul 01 13:13:07.480 [notice] Bootstrapped 85%: Finishing handshake with first hop.
+Jul 01 13:13:09.043 [notice] Bootstrapped 90%: Establishing a Tor circuit.
+Jul 01 13:13:09.755 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Jul 01 13:13:09.755 [notice] Bootstrapped 100%: Done.
+Jul 01 13:13:13.372 [notice] New control connection opened.
+Jul 01 13:14:16.071 [notice] New control connection opened.
+Jul 01 13:14:16.283 [warn] Can't return context-sensitive 'HiddenServiceDir' on its own
+Jul 01 13:14:16.283 [warn] Can't return context-sensitive 'HiddenServicePort' on its own
+Jul 01 13:14:16.283 [warn] Can't return context-sensitive 'HiddenServiceVersion' on its own
+Jul 01 13:14:16.283 [warn] Can't return context-sensitive 'HiddenServiceAuthorizeClient' on its own
+Jul 01 13:14:23.688 [notice] New control connection opened.
+Jul 01 13:14:26.276 [notice] New control connection opened.
+Jul 01 13:14:26.736 [notice] New control connection opened.
+Jul 01 13:14:26.796 [warn] Can't return context-sensitive 'HiddenServiceDir' on its own
+Jul 01 13:14:26.797 [warn] Can't return context-sensitive 'HiddenServicePort' on its own
+Jul 01 13:14:26.797 [warn] Can't return context-sensitive 'HiddenServiceVersion' on its own
+Jul 01 13:14:26.797 [warn] Can't return context-sensitive 'HiddenServiceAuthorizeClient' on its own
+Jul 01 13:18:03.063 [notice] New control connection opened.
+Jul 01 13:18:03.126 [warn] Can't return context-sensitive 'HiddenServiceDir' on its own
+Jul 01 13:18:03.126 [warn] Can't return context-sensitive 'HiddenServicePort' on its own
+Jul 01 13:18:03.126 [warn] Can't return context-sensitive 'HiddenServiceVersion' on its own
+Jul 01 13:18:03.126 [warn] Can't return context-sensitive 'HiddenServiceAuthorizeClient' on its own
+Sep 14 21:22:03.903 [notice] Catching signal TERM, exiting cleanly.

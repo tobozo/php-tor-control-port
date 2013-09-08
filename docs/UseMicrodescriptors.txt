@@ -1,0 +1,1 @@
+If 1, we try to use microdescriptors to build circuits. If 0, we don't. If -1, Tor decides. 

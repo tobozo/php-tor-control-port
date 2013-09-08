@@ -1,0 +1,1 @@
+Boolean: Attempt to call mlockall() on our process for all current and future memory. 

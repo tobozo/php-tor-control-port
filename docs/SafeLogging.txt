@@ -1,0 +1,2 @@
+
+Boolean: are we allowed to log sensitive strings such as addresses (0), or do we scrub them first (1)? 

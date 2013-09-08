@@ -1,0 +1,1 @@
+As a directory authority, vote on assignment of the HSDir flag? 

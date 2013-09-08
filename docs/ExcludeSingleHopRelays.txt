@@ -1,0 +1,1 @@
+If true, don't allow relays with AllowSingleHopExits=1 to be used in circuits that we build. 

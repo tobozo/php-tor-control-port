@@ -1,0 +1,1 @@
+If true, use BEGIN_DIR rather than BEGIN when possible. 

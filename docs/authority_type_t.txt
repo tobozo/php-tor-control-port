@@ -1,0 +1,1 @@
+Bitfield enum type listing types of directory authority/directory server. 

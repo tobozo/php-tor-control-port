@@ -1,0 +1,1 @@
+Boolean: is this an authoritative directory that's willing to bind names? 

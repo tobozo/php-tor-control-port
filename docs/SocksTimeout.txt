@@ -1,0 +1,1 @@
+How long do we let a socks connection wait unattached before we fail it? 

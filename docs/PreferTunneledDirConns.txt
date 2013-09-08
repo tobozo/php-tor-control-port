@@ -1,0 +1,1 @@
+If true, avoid dirservers that don't support BEGIN_DIR, when possible. 

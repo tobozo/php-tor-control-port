@@ -1,0 +1,1 @@
+If true, we try resolving hostnames with weird characters. 

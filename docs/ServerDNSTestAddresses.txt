@@ -1,0 +1,1 @@
+A list of addresses that definitely should be resolvable. Used for testing our DNS server. 

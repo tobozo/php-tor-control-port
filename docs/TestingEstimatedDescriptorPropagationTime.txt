@@ -1,0 +1,1 @@
+Clients don't download any descriptor this recent, since it will probably not have propagated to enough caches. Only altered on testing networks. 

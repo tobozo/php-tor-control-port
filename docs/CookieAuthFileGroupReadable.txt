@@ -1,0 +1,1 @@
+Boolean: Is the CookieAuthFile g+r? 

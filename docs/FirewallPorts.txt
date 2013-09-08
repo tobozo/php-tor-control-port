@@ -1,0 +1,2 @@
+
+Which ports our firewall allows (strings). 

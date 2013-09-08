@@ -1,0 +1,1 @@
+Bitfield type: things that we're willing to use invalid routers for. 

@@ -1,0 +1,2 @@
+
+How many KB do we allow per accounting interval before hibernation? 0 for "never hibernate." (Based on a deprecated option) 

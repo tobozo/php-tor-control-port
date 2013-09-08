@@ -1,0 +1,1 @@
+Boolean: If set, we don't force exit addresses to be FQDNs, but rather search for them in the local domains. 

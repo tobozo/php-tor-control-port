@@ -1,0 +1,1 @@
+If true, when we get a resolve request for a hostname ending with one of the suffixes in AutomapHostsSuffixes, map it to a virtual address. 

@@ -1,0 +1,2 @@
+
+Boolean: does this HS authoritative directory record statistics? 

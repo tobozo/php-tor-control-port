@@ -1,0 +1,2 @@
+
+Comma-separated list of nicknames not to use as introduction points. 

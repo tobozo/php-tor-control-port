@@ -1,0 +1,1 @@
+Should we fetch our dir info at the start of the consensus period? 

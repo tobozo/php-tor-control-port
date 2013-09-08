@@ -1,0 +1,1 @@
+If true, SIGHUP should reload the torrc. Sometimes controllers want to make this false. 

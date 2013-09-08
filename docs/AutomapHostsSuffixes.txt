@@ -1,0 +1,1 @@
+List of suffixes for AutomapHostsOnResolve. 

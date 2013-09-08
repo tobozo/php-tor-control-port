@@ -1,0 +1,1 @@
+If true, we try to download extra-info documents (and we serve them, if we are a cache). For authorities, this is always true. 

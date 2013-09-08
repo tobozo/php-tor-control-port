@@ -1,0 +1,1 @@
+If true, do not believe anybody who tells us that a domain resolves to an internal address, or that an internal address has a PTR mapping. Helps avoid some cross-site attacks. 

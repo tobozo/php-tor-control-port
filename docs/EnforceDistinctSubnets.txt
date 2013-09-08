@@ -1,0 +1,1 @@
+If true, don't allow multiple routers in the same network zone in the same circuit. 

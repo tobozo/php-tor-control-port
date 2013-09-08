@@ -1,0 +1,1 @@
+If true, and the controller tells us to use a one-hop circuit, and the exit allows it, we use it. 

@@ -1,0 +1,1 @@
+Boolean: if we know the bridge's digest, should we get new descriptors from the bridge authorities or from the bridge itself? 

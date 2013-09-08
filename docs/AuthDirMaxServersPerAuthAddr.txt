@@ -1,0 +1,1 @@
+Do not permit more than this number of servers per IP address shared with an authority. 

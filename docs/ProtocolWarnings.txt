@@ -1,0 +1,1 @@
+Boolean: when other parties screw up the Tor protocol, is it a warn or an info in our logs? 

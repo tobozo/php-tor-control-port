@@ -1,0 +1,1 @@
+An authority type, derived from PublishServerDescriptor. 

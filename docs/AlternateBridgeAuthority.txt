@@ -1,0 +1,1 @@
+If set, use these bridge authorities and not the default one. 

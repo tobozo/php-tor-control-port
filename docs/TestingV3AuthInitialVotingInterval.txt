@@ -1,0 +1,1 @@
+The length of time that we think an initial consensus should be fresh. Only altered on testing networks. 

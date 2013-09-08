@@ -1,0 +1,1 @@
+How much bandwidth, on average, are we willing to use for all relayed conns? 

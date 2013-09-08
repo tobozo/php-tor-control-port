@@ -1,0 +1,2 @@
+
+When we get a SIGINT and we're a server, how long do we wait before exiting? 

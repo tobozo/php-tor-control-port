@@ -1,0 +1,1 @@
+Authority only: key=value pairs that we add to our networkstatus consensus vote on the 'params' line. 

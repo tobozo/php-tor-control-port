@@ -1,0 +1,1 @@
+The length of time we think it will take to distribute initial votes. Only altered on testing networks. 

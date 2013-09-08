@@ -1,0 +1,1 @@
+If true, we take part in a testing network. Change the defaults of a couple of other configuration options and allow to change the values of certain configuration options. 

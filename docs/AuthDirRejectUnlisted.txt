@@ -1,0 +1,1 @@
+Boolean: do we reject all routers that aren't named in our fingerprint file? 

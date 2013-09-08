@@ -1,0 +1,89 @@
+<!-- Observatory popup window -->
+<!ENTITY ssl-observatory.popup.details "Detalhes e Informações de Privacidade">
+<!ENTITY ssl-observatory.popup.later "Perguntar Mais Tarde">
+<!ENTITY ssl-observatory.popup.no "Não">
+
+<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere pode detectar ataques ao seu navegador através do envio dos certificados que você recebe ao Observatory.  Ativar isso?">
+
+<!--<!ENTITY ssl-observatory.popup.text 
+"EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
+and auditing the certificates being presented to your browser. Would you like
+to turn it on?">-->
+
+<!ENTITY ssl-observatory.popup.title 
+"HTTPS Everywhere deve usar o SSL Observatory?">
+
+<!ENTITY ssl-observatory.popup.yes "Sim">
+
+<!-- Observatory preferences dialog -->
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts1
+"É apropriado ativar isso, a menos que use uma rede corporativa muito intrusa:">
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts2
+"Apropriado, a menos que use uma rede corporativa com servidores de intranet cujos nomes consideram-se confidencias:">
+
+<!ENTITY ssl-observatory.prefs.alt_roots 
+"Submeter e verificar certificados assinados por ACs raizes não padrões">
+
+<!ENTITY ssl-observatory.prefs.alt_roots_tooltip 
+"É apropriado (e uma boa idéia) ativar esta opção, a menos que use uma rede corporativa que vigia sua navegação por meio de um proxy TLS e uma Autoridade Certificadora Raiz privada.  Se for ativada em tal rede, esta opção poderá divulgar detalhes dos domínios https:// específicos que se acessaram através daquele proxy, por causa dos certificados distintivos assim criados.  Por isso, esta opção é desativada por padrão.">
+
+<!ENTITY ssl-observatory.prefs.anonymous "Verificar certificados usando Tor pelo anonimato">
+<!ENTITY ssl-observatory.prefs.anonymous_unavailable 
+"Verificar certificados usando Tor pelo anonimato (precisa do Torbutton)">
+<!ENTITY ssl-observatory.prefs.anonymous_tooltip 
+"Esta opça precisa da instalação do Tor e Torbutton">
+
+<!ENTITY ssl-observatory.prefs.asn 
+'Quando você vê um certificado novo, avisar o Observatory do ISP ao qual você estiver ligado'>
+
+<!ENTITY ssl-observatory.prefs.asn_tooltip
+'Isso determinará e enviará o "Numéro de Sistema Autônomo" da sua rede, o qual ajudará na detecção de ataques ao HTTPS e na determinação da presença de observações de redes em lugares como o Irã e a Síria onde ataques são comparativamente mais comuns.'>
+
+<!ENTITY ssl-observatory.prefs.done "Completo">
+
+<!ENTITY ssl-observatory.prefs.explanation 
+"HTTPS Everywhere can use EFF's SSL Observatory.  This does two things: (1)
+sends copies of HTTPS certificates to the Observatory, to help us
+detect 'man in the middle' attacks and improve the Web's security; and (2)
+lets us warn you about insecure connections or attacks on your browser.">
+
+<!--<!ENTITY ssl-observatory.prefs.explanation2
+"When you visit https://www.example.com, the Observatory will learn that
+somebody visited that site, but will not know who or what page they looked at.
+Mouseover the options for further details:">-->
+
+<!ENTITY ssl-observatory.prefs.explanation2
+
+"For example, when you visit https://www.something.com, the certificate
+received by the Observatory will indicate that somebody visited
+www.something.com, but not who visited the site, or what specific page they
+looked at.  Mouseover the options for further details:">
+
+<!ENTITY ssl-observatory.prefs.hide "Hide advanced options">
+
+<!ENTITY ssl-observatory.prefs.nonanon 
+"Check certificates even if Tor is not available">
+
+<!ENTITY ssl-observatory.prefs.nonanon_tooltip
+"We will still try to keep the data anonymous, but this option is less secure">
+
+<!ENTITY ssl-observatory.prefs.priv_dns 
+"Submit and check certificates for non-public DNS names">
+
+<!ENTITY ssl-observatory.prefs.priv_dns_tooltip
+"Unless this option is checked, the Observatory will not record certificates for names that it cannot resolve through the DNS system.">
+
+<!ENTITY ssl-observatory.prefs.show "Show advanced options">
+
+<!ENTITY ssl-observatory.prefs.title "SSL Observatory Preferences">
+
+<!ENTITY ssl-observatory.prefs.use "Use the Observatory?">
+<!ENTITY ssl-observatory.warning.title "WARNING from EFF's SSL Observatory">
+<!ENTITY ssl-observatory.warning.showcert "Show the certificate chain">
+<!ENTITY ssl-observatory.warning.okay "Entendo">
+<!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory has issued a warning about the HTTPS certificiate(s) for this site:">
+<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection.">
+
+

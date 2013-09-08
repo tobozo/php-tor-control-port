@@ -1,0 +1,1 @@
+If true, we convert "www.google.com.foo.exit" addresses on the socks/trans/natd ports into "www.google.com" addresses that exit from the node "foo". Disabled by default since attacking websites and exit relays can use it to manipulate your path selection. 

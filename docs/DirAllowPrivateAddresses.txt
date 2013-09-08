@@ -1,0 +1,2 @@
+
+Whether dirservers refuse router descriptors with private IPs. 

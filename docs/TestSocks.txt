@@ -1,0 +1,1 @@
+Boolean: when we get a socks connection, do we loudly log whether it was DNS-leaking or not? 

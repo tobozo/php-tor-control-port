@@ -1,0 +1,1 @@
+Process specifier for a controller that ‘owns’ this Tor instance. Tor will terminate if its owning controller does. 

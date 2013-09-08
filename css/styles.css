@@ -1,0 +1,76 @@
+BODY {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+}
+
+A {
+	color: #303030;
+	text-decoration: underline;
+}
+
+A:hover {
+	color: #303030;
+	text-decoration: none;
+}
+
+A.header {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+A.header:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+TABLE {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+TABLE.squelette {
+	width: 780px;
+	height: 100%;
+	background-color: #CCCCCC;
+}
+
+TD.header {
+	width: 100%;
+	background-color: #000000;
+	color: #FFFFFF;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+TD.page {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	vertical-align: top;
+	padding: 50px;
+}
+
+SPAN.header {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+SPAN.gras {
+	font-weight: bold;
+}
+
+TEXTAREA.var_dump {
+	width: 700px;
+	height: 200px;
+}
+
+FORM.enligne {
+	display: inline;
+}
+
+DIV.invisible {
+	visibility: hidden;
+}

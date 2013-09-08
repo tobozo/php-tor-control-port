@@ -1,0 +1,2 @@
+
+Boolean: is this an authoritative directory? 

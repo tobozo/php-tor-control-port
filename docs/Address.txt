@@ -1,0 +1,2 @@
+
+OR only: configured address for this onion router. 

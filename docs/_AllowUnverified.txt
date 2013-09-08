@@ -1,0 +1,2 @@
+
+Bitmask; derived from AllowUnverifiedNodes; 

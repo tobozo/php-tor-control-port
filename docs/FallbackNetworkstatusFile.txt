@@ -1,0 +1,1 @@
+File to check for a consensus networkstatus, if we don't have one cached. 

@@ -1,0 +1,1 @@
+If non-zero, detach streams from circuits and try a new circuit if the stream has been waiting for this many seconds. If zero, use our default internal timeout schedule. 

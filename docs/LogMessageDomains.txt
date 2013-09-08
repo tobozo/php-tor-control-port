@@ -1,0 +1,1 @@
+Boolean: Should we log the domain(s) in which each log message occurs? 

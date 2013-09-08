@@ -1,0 +1,2 @@
+
+How often do we post our server descriptor to the authoritative directory servers? 

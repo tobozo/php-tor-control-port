@@ -1,0 +1,1 @@
+If set, use these main (currently v3) directory authorities and not the default ones. 

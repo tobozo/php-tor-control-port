@@ -1,0 +1,2 @@
+
+Boolean: if set, we start even if our resolv.conf file is missing or broken. 

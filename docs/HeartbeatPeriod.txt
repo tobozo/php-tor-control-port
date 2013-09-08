@@ -1,0 +1,1 @@
+Log heartbeat messages after this many seconds have passed. 
