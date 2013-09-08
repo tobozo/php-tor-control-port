@@ -8,8 +8,8 @@
 
 /*
  * The innocent purpose of this class is to run the tor binary and create a
- * php socket that connects to its control port and gets several informations
- * from it.
+ * php socket that connects to its control port, authenticates, gets and
+ * sets several variables.
  */
  
 /*
