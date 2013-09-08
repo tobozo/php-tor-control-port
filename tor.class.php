@@ -7,9 +7,9 @@
  ****************************************/
 
 /*
- * The innocent purpose of this class is to run the tor binary and create a
- * php socket that connects to its control port, authenticates, and let the
- * user get and set variables...
+ * The innocent purpose of this class is to run the TOR binary and create a
+ * php socket that connects to its control port and authenticates. You may
+ * then get and set configuration variables...
  */
  
 /*
